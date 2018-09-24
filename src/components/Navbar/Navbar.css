@@ -1,0 +1,26 @@
+.navbar {
+  height: 70px;
+  background: none;
+}
+.scores {
+  color: #000000;
+  text-shadow: 3px 1px 0px #89cff0;
+  font-size: 2rem;
+  margin-right: 15px;
+  float: left;
+}
+h4 {
+  color: #000000;
+  text-shadow: 3px 1px 0px #89cff0;
+  font-size: 2rem;
+  margin-top: 9px;
+}
+
+@media only screen and (max-width: 768px) {
+  .scores {
+    font-size: 1.5rem;
+  }
+  .h4 {
+    font-size: 1.5rem;
+  }
+}

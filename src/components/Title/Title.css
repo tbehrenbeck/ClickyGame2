@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-family: "Gill Sans", sans-serif;
+  color: #ffffff;
+  margin-bottom: 60px;
+  padding-top: 100px;
+  text-shadow: 5px 3px 0px #89cff0;
+}
